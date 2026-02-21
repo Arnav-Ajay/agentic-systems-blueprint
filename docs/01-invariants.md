@@ -22,7 +22,7 @@ They are implementation-agnostic and must hold regardless of model, stack, or ar
 
 **Statement**
 
-* Every factual claim in a generated answer must be supported by either retrieved evidence or an explicitly declared parametric knowledge boundary recorded at decision time.
+* Every factual claim in a generated answer must be representable as an addressable Claim and must be supported by either retrieved evidence or an explicitly declared parametric knowledge boundary recorded at decision time.
 
 **Applies To**
 
@@ -33,7 +33,7 @@ They are implementation-agnostic and must hold regardless of model, stack, or ar
 
 **Violation Condition**
 
-* A generated answer contains a factual assertion that cannot be traced to retrieved evidence or to a recorded decision explicitly permitting parametric knowledge use.
+* A generated answer contains a factual assertion that (a) cannot be identified as a Claim, or (b) cannot be traced to retrieved evidence units or to a recorded decision explicitly permitting parametric knowledge use.
 
 **Why This Exists**
 
@@ -168,7 +168,7 @@ They are implementation-agnostic and must hold regardless of model, stack, or ar
 
 **Applies To**
 
-* All layer
+* All layers
 
 **Violation Condition**
 
@@ -186,7 +186,7 @@ They are implementation-agnostic and must hold regardless of model, stack, or ar
 
 **Applies To**
 
-* All layer
+* All layers
 
 **Violation Condition**
 
