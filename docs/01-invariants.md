@@ -160,7 +160,7 @@ They are implementation-agnostic and must hold regardless of model, stack, or ar
 
 * Prevents model-specific behavior from undermining system correctness boundaries.
 
-## 8. No Silent Invariant Violations
+## 08. No Silent Invariant Violations
 
 **Statement**
 
@@ -178,7 +178,7 @@ They are implementation-agnostic and must hold regardless of model, stack, or ar
 
 * Prevents silent corruption and ensures system failures are surfaced rather than masked.
 
-## 9. Causal Trace Availability
+## 09. Causal Trace Availability
 
 **Statement**
 
