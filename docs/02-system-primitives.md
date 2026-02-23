@@ -262,5 +262,5 @@ Without a formal Confidence Expression primitive, the system cannot govern, cali
 | Signal                | 04, 05, 09, 10      |
 | Memory Record         | 02, 03, 09          |
 | Generation Action     | 05, 08, 09, 10      |
-| Trace Record          | 04, 05, 08, 09      |
+| Trace Record          | 04, 05, 08, 09, 10  |
 | Confidence Expression | 10, 05, 09          |
