@@ -95,6 +95,7 @@ A recorded selection among mutually exclusive system actions made at a specific 
 * Available signals at decision time
 * Chosen action
 * Rejected alternatives
+* Justification
 
 **Why It Exists**
 
