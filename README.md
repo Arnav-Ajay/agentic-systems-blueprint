@@ -1,6 +1,6 @@
 # `agentic-systems-blueprint`
 
-> A failure-aware blueprint for building, reasoning about, and debugging modern AI systems.
+A failure-aware blueprint for building, reasoning about, and debugging modern AI systems.
 
 ---
 
